@@ -1,0 +1,14 @@
+import javax.tools.JavaCompiler
+
+apply plugin: 'java'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+tasks.withType(javax.tools.JavaCompiler){
+    options.encoding = "UTF-8"
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"
