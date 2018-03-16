@@ -3,12 +3,12 @@ package com.example.subcript;
 /**
  * Created by SongUp on 2018/3/14.
  */
-//瑙?瀵????借薄?规?
+//观察者
 interface Observe{
     void upData(String message);
 }
 
-//瑙?瀵???瀹???
+//观察者实现类
 public class ObserveRealize implements Observe{
     private String name;
 
@@ -18,7 +18,7 @@ public class ObserveRealize implements Observe{
 
     @Override
     public void upData(String message) {
-//        ?跺?版?存?颁俊??锛?
+//        收到跟新信息
         System.out.println(name+"收到的信息是："+message);
     }
 }
