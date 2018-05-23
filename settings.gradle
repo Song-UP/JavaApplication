@@ -1,1 +1,1 @@
-include ':app', ':设计模式', ':mvpDesign'
+include ':app', ':设计模式', ':mvpDesign', ':责任链设计模式'
