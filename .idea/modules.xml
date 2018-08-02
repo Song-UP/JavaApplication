@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication.iml" filepath="$PROJECT_DIR$/JavaApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_java8_lanmdba/lib_java8_lanmdba.iml" filepath="$PROJECT_DIR$/lib_java8_lanmdba/lib_java8_lanmdba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpDesign/mvpDesign.iml" filepath="$PROJECT_DIR$/mvpDesign/mvpDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/single_lib/single_lib.iml" filepath="$PROJECT_DIR$/single_lib/single_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/责任链设计模式/责任链设计模式.iml" filepath="$PROJECT_DIR$/责任链设计模式/责任链设计模式.iml" />
+    </modules>
+  </component>
+</project>
